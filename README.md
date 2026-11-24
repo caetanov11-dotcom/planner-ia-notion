@@ -181,7 +181,7 @@ Possíveis evoluções: revisão semanal agendada, integração com Google Agend
 As cinco etapas foram demonstradas com dados fictícios. As habilidades 02, 04 e 05 tiveram acionamento explicitamente confirmado pela IA; as etapas 01 e 03 produziram respostas adequadas.
 
 ### Painel do Planner
-![Planner](Captura%20de%20tela%202026-11-24%20162519.png)
+![Planner](Captura20tela20162519.png)
 
 ### Teste 1 — Esclarecer objetivo
 ![Objetivo](Captura%20de%20tela%202026-11-24%20162712.png)
