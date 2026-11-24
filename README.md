@@ -20,7 +20,7 @@ Seu diferencial é combinar um painel de bases relacionadas com cinco habilidade
 | ChatGPT | Elaborar as instruções, executar os cinco testes textuais e analisar o cenário fictício. Os arquivos SKILL.md permitem reutilização em ambientes compatíveis; em outros, podem ser usados como prompts. |
 | Markdown e GitHub | Documentar o projeto e disponibilizar os arquivos para reprodução. |
 
-**Estado desta versão:** o Planner foi implantado no Notion com cinco bases relacionadas, cinco visualizações vinculadas e cinco páginas de habilidades. Foram registrados 1 objetivo, 8 tarefas, 4 blocos de rotina, 4 obstáculos e 1 revisão. A demonstração abaixo registra testes textuais com ChatGPT e dados fictícios. A ativação e execução nativa das habilidades e os prints reais ainda precisam ser validados. O cálculo consolidado por rollup não foi implantado devido a um erro de configuração; o percentual histórico foi registrado na base Acompanhamento.
+**Estado desta versão:** o Planner foi implantado no Notion com cinco bases relacionadas, cinco visualizações vinculadas e cinco páginas de habilidades. Foram registrados 1 objetivo, 8 tarefas, 4 blocos de rotina, 4 obstáculos e 1 revisão. A demonstração abaixo registra testes textuais com ChatGPT e dados fictícios. As cinco habilidades foram acionadas no Notion AI, conforme confirmação textual nas respostas capturadas; os prints reais são apresentados na seção 8. O cálculo consolidado por rollup não foi implantado devido a um erro de configuração; o percentual histórico foi registrado na base Acompanhamento.
 
 ## 3. Estrutura do Planner
 
@@ -164,11 +164,45 @@ Durante a elaboração e a checagem textual, foram incluídas regras para distin
 
 Veja o [guia de instalação e publicação](GUIA.md). As cinco bases preenchidas estão em [bases](bases/), o painel de exemplo em [notion/Planner.md](notion/Planner.md) e as instruções reutilizáveis em [habilidades](habilidades/).
 
-## 8. Evidências e próximos passos
+## 8. Evidências dos testes no Notion
 
-Os cinco testes acima são respostas textuais produzidas com dados fictícios. O Planner já está implementado no Notion. Para finalizar as evidências do portfólio, executar as habilidades nativas e acrescentar prints reais do painel e de pelo menos uma execução. Não incluir informações pessoais nem publicar o endereço privado do workspace.
+As cinco etapas foram demonstradas no Notion AI com dados fictícios, sem alteração dos registros existentes. As respostas dos testes 02, 04 e 05 e das execuções complementares de 01 e 03 confirmam expressamente o uso das respectivas habilidades.
 
-Possíveis evoluções: revisão semanal agendada, integração com Google Agenda e conexão entre Notion e ChatGPT, após autorização e validação.
+### Painel do Planner
+
+![Painel do Planner](Captura20tela20162519.png)
+
+### Teste 1 — Esclarecer objetivo
+
+![Meta do cenário original](Captura%20de%20tela%202026-11-24%20162712.png)
+
+![Confirmação da habilidade 01](teste-01-confirmacao.png)
+
+A execução complementar confirmou o uso da habilidade e produziu uma nova proposta SMART de quatro semanas, com prazo de 22/12/2026 e critérios adicionais. Como o pedido não fixava as datas do cenário original, a resposta adotou a data corrente como início. A proposta não foi registrada: o objetivo original de fevereiro de 2027 permanece inalterado. Para reutilizar o cenário original, explicitar as datas e os critérios cadastrados no comando.
+
+### Teste 2 — Plano de ação
+
+![Plano de ação](Captura%20de%20tela%202026-11-24%20162952.png)
+
+### Teste 3 — Adaptar à rotina
+
+![Rotina de quatro semanas](Captura%20de%20tela%202026-11-24%20163212.png)
+
+![Confirmação da habilidade 03](teste-03-confirmacao.png)
+
+A execução complementar confirmou a habilidade e a rotina de 120 minutos de estudo, 30 de revisão e 30 de contingência, totalizando 180 minutos semanais.
+
+### Teste 4 — Antecipar obstáculos
+
+![Obstáculos](Captura%20de%20tela%202026-11-24%20163349.png)
+
+### Teste 5 — Revisar progresso
+
+![Progresso](Captura%20de%20tela%202026-11-24%20163914.png)
+
+### Conclusão e melhorias futuras
+
+O assistente demonstrou as cinco etapas do método. O cálculo histórico de 12,5% foi confirmado na revisão; o rollup automático permanece como evolução proposta. Outras possibilidades são a revisão semanal agendada e a integração com Google Agenda.
 
 ## Referências
 
@@ -176,24 +210,3 @@ Possíveis evoluções: revisão semanal agendada, integração com Google Agend
 - [Notion — relações e rollups](https://www.notion.com/help/relations-and-rollups)
 - [Notion — habilidades do agente](https://www.notion.com/help/create-and-manage-skills)
 - [OpenAI — habilidades no ChatGPT](https://help.openai.com/pt-br/articles/20001066-skills-in-chatgpt)
-## 9. Evidências dos testes no Notion
-
-As cinco etapas foram demonstradas com dados fictícios. As habilidades 02, 04 e 05 tiveram acionamento explicitamente confirmado pela IA; as etapas 01 e 03 produziram respostas adequadas.
-
-### Painel do Planner
-![Planner](Captura20tela20162519.png)
-
-### Teste 1 — Esclarecer objetivo
-![Objetivo](Captura%20de%20tela%202026-11-24%20162712.png)
-
-### Teste 2 — Plano de ação
-![Plano](Captura%20de%20tela%202026-11-24%20162952.png)
-
-### Teste 3 — Rotina
-![Rotina](Captura%20de%20tela%202026-11-24%20163212.png)
-
-### Teste 4 — Obstáculos
-![Obstáculos](Captura%20de%20tela%202026-11-24%20163349.png)
-
-### Teste 5 — Progresso
-![Progresso](Captura%20de%20tela%202026-11-24%20163914.png)
