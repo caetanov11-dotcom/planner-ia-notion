@@ -176,3 +176,24 @@ Possíveis evoluções: revisão semanal agendada, integração com Google Agend
 - [Notion — relações e rollups](https://www.notion.com/help/relations-and-rollups)
 - [Notion — habilidades do agente](https://www.notion.com/help/create-and-manage-skills)
 - [OpenAI — habilidades no ChatGPT](https://help.openai.com/pt-br/articles/20001066-skills-in-chatgpt)
+## 9. Evidências dos testes no Notion
+
+As cinco etapas foram demonstradas com dados fictícios. As habilidades 02, 04 e 05 tiveram acionamento explicitamente confirmado pela IA; as etapas 01 e 03 produziram respostas adequadas.
+
+### Painel do Planner
+![Planner](Captura%20de%20tela%202026-11-24%20162519.png)
+
+### Teste 1 — Esclarecer objetivo
+![Objetivo](Captura%20de%20tela%202026-11-24%20162712.png)
+
+### Teste 2 — Plano de ação
+![Plano](Captura%20de%20tela%202026-11-24%20162952.png)
+
+### Teste 3 — Rotina
+![Rotina](Captura%20de%20tela%202026-11-24%20163212.png)
+
+### Teste 4 — Obstáculos
+![Obstáculos](Captura%20de%20tela%202026-11-24%20163349.png)
+
+### Teste 5 — Progresso
+![Progresso](Captura%20de%20tela%202026-11-24%20163914.png)
