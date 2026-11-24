@@ -1,0 +1,5 @@
+﻿Bloco,Dia,Horário,Duração (min),Tipo,Objetivo ID
+Estudo 1,Segunda,19:00–20:00,60,Estudo,OBJ-01
+Estudo 2,Quarta,19:00–20:00,60,Estudo,OBJ-01
+Revisão,Sábado,10:00–10:30,30,Revisão,OBJ-01
+Reserva,Domingo,10:00–10:30,30,Contingência,OBJ-01

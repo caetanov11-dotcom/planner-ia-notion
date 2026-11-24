@@ -1,0 +1,5 @@
+﻿Obstáculo,Probabilidade,Impacto,Gatilho,Prevenção,Plano alternativo,Status,Objetivo ID
+Imprevisto de agenda,Alta,Alto,Perder um bloco de estudo,Reservar domingo,Dividir a tarefa em 2 blocos de 30 min; se necessário replanejar,Ativo,OBJ-01
+Dificuldade com fórmulas,Média,Alto,Errar 3 exercícios seguidos,Usar exemplos simples,Rever exemplo e refazer exercícios no bloco seguinte,Ativo,OBJ-01
+Falta de acesso ao Excel,Baixa,Médio,Aplicativo indisponível,Manter arquivo local,Praticar em LibreOffice Calc ou Excel web e verificar diferenças,Ativo,OBJ-01
+Cansaço,Média,Médio,Não conseguir manter atenção,Pausas e metas pequenas,Fazer 30 min essenciais e reagendar o restante,Ativo,OBJ-01

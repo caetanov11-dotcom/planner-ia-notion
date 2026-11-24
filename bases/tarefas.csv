@@ -1,0 +1,9 @@
+﻿Tarefa,ID,Data planejada,Prazo,Duração (min),Status,Prioridade,Critério de conclusão,Dependência ID,Objetivo ID
+Conhecer interface e formatação,T01,2027-02-01,2027-02-01,60,Concluída,Alta,Formatar tabela com cabeçalho e moeda,,OBJ-01
+Praticar SOMA e MÉDIA,T02,2027-02-03,2027-02-07,60,Pendente,Alta,Resolver 5 exercícios e conferir resultados,T01,OBJ-01
+Praticar referências e porcentagens,T03,2027-02-08,2027-02-08,60,Pendente,Alta,Calcular percentuais com referências corretas,T02,OBJ-01
+Organizar dados e filtros,T04,2027-02-10,2027-02-14,60,Pendente,Média,Filtrar e ordenar 12 registros fictícios,T03,OBJ-01
+Criar gráficos simples,T05,2027-02-15,2027-02-15,60,Pendente,Média,Criar gráfico de gastos por categoria,T04,OBJ-01
+Montar orçamento fictício,T06,2027-02-17,2027-02-21,60,Pendente,Alta,Montar tabela com receitas e despesas,T05,OBJ-01
+"Integrar fórmulas, filtro e gráfico",T07,2027-02-22,2027-02-22,60,Pendente,Alta,Consolidar os recursos em uma planilha,T06,OBJ-01
+Validar o projeto final,T08,2027-02-24,2027-02-28,60,Pendente,Alta,Conferir quatro critérios do projeto,T07,OBJ-01
